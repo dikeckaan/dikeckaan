@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="246" viewBox="0 0 445 246" role="img" aria-label="Most used languages">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, -apple-system, Helvetica, Arial, sans-serif; fill: #7c8cff; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, -apple-system, Helvetica, Arial, sans-serif; fill: #8b949e; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, -apple-system, Helvetica, Arial, sans-serif; fill: #a5b0ff; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, -apple-system, Helvetica, Arial, sans-serif; fill: #8b949e; }
+  .fade { animation: fade .6s ease-in-out forwards; opacity: 0; }
+  @keyframes fade { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="444" height="245" rx="10" fill="none" stroke="#30363d"/>
+<text x="25" y="32" class="t">Most used languages</text>
+<clipPath id="c"><rect x="25" y="48" width="395" height="10" rx="5"/></clipPath><g clip-path="url(#c)"><rect x="25.0" y="48" width="376.8" height="10" fill="#555555"/><rect x="401.8" y="48" width="4.3" height="10" fill="#8b949e"/><rect x="406.1" y="48" width="3.0" height="10" fill="#89e051"/><rect x="409.1" y="48" width="2.9" height="10" fill="#3572A5"/><rect x="412.0" y="48" width="2.3" height="10" fill="#f1e05a"/><rect x="414.2" y="48" width="2.0" height="10" fill="#563d7c"/><rect x="416.2" y="48" width="2.0" height="10" fill="#427819"/><rect x="418.2" y="48" width="2.0" height="10" fill="#e34c26"/><rect x="420.2" y="48" width="2.0" height="10" fill="#A97BFF"/><rect x="422.2" y="48" width="2.0" height="10" fill="#3178c6"/></g>
+<g class="fade" style="animation-delay:150ms"><circle cx="30" cy="82" r="5" fill="#555555"/><text x="41" y="86" class="l">C <tspan class="s">95.4%</tspan></text></g>
+<g class="fade" style="animation-delay:210ms"><circle cx="230" cy="82" r="5" fill="#8b949e"/><text x="241" y="86" class="l">Assembly <tspan class="s">1.1%</tspan></text></g>
+<g class="fade" style="animation-delay:270ms"><circle cx="30" cy="106" r="5" fill="#89e051"/><text x="41" y="110" class="l">Shell <tspan class="s">0.8%</tspan></text></g>
+<g class="fade" style="animation-delay:330ms"><circle cx="230" cy="106" r="5" fill="#3572A5"/><text x="241" y="110" class="l">Python <tspan class="s">0.7%</tspan></text></g>
+<g class="fade" style="animation-delay:390ms"><circle cx="30" cy="130" r="5" fill="#f1e05a"/><text x="41" y="134" class="l">JavaScript <tspan class="s">0.6%</tspan></text></g>
+<g class="fade" style="animation-delay:450ms"><circle cx="230" cy="130" r="5" fill="#563d7c"/><text x="241" y="134" class="l">CSS <tspan class="s">0.3%</tspan></text></g>
+<g class="fade" style="animation-delay:510ms"><circle cx="30" cy="154" r="5" fill="#427819"/><text x="41" y="158" class="l">Makefile <tspan class="s">0.3%</tspan></text></g>
+<g class="fade" style="animation-delay:570ms"><circle cx="230" cy="154" r="5" fill="#e34c26"/><text x="241" y="158" class="l">HTML <tspan class="s">0.2%</tspan></text></g>
+<g class="fade" style="animation-delay:630ms"><circle cx="30" cy="178" r="5" fill="#A97BFF"/><text x="41" y="182" class="l">Kotlin <tspan class="s">0.2%</tspan></text></g>
+<g class="fade" style="animation-delay:690ms"><circle cx="230" cy="178" r="5" fill="#3178c6"/><text x="241" y="182" class="l">TypeScript <tspan class="s">0.1%</tspan></text></g>
+</svg>

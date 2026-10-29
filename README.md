@@ -145,11 +145,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## 🕒 Recently updated
 
 <!-- RECENT:START -->
+- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-10-29</sub>
+- [**.github**](https://github.com/dikeckaan/.github) — No description <sub>· updated 2026-10-29</sub>
 - [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-10-29</sub>
 - [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) — Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air… <sub>· updated 2026-10-29</sub>
 - [**mu300-audio**](https://github.com/dikeckaan/mu300-audio) — Call audio for the ZTE F50 / U30 Air on mu300-linux's 5.4 kernel: prebuilt Unisoc audio d… <sub>· updated 2026-10-29</sub>
 - [**bektasotokurtarma**](https://github.com/dikeckaan/bektasotokurtarma) — Bektaş Oto Kurtarma — cekici.online. İstanbul Anadolu Yakası 7/24 oto çekici. Cloudflare… <sub>· updated 2026-10-27</sub>
-- [**zte-u30-pro-launcher**](https://github.com/dikeckaan/zte-u30-pro-launcher) — ZTE MU5358 (U30 Pro) UFI router icin ozel launcher + Magisk modulu — 240x240 yuvarlak dok… <sub>· updated 2026-10-25</sub>
 <!-- RECENT:END -->
 
 ## ⚡ Recent activity
