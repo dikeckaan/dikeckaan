@@ -1,7 +1,7 @@
 // Draws the profile's SVG cards into profile/ from the GitHub API, so the README
 // doesn't depend on third-party card services:
 //   stats.svg     stars, forks, repos, followers and last year's contributions
-//   langs.svg     languages across my own repositories, by bytes
+//   langs.svg     languages across my own repositories, weighted by bytes and repo count
 //   activity.svg  daily contributions over the last 60 days
 //   pin-<repo>.svg  one card per repository in PINS
 // Only public repositories and public contribution counts are used.
@@ -107,12 +107,18 @@ const { user: gq } = await graphql(`query($login: String!) {
 const cc = gq.contributionsCollection;
 const days = cc.contributionCalendar.weeks.flatMap((w) => w.contributionDays);
 
+// Kernel trees are millions of lines of vendored C and would drown out everything else.
+const VENDORED = /kernel/i;
 const langBytes = new Map();
+const langRepos = new Map();
 for (const r of own) {
-  if (r.size === 0) continue;
+  if (r.size === 0 || VENDORED.test(r.name)) continue;
   // A repo GitHub has blocked (or that just vanished) answers 403/404; leave it out.
   const langs = await get(`/repos/${USER}/${r.name}/languages`).catch((e) => (console.warn(e.message.split('\n')[0]), {}));
-  for (const [l, b] of Object.entries(langs)) langBytes.set(l, (langBytes.get(l) || 0) + b);
+  for (const [l, b] of Object.entries(langs)) {
+    langBytes.set(l, (langBytes.get(l) || 0) + b);
+    langRepos.set(l, (langRepos.get(l) || 0) + 1);
+  }
 }
 
 // ---------- cards ----------
@@ -135,8 +141,11 @@ function statsCard() {
 }
 
 function langsCard() {
-  const total = [...langBytes.values()].reduce((a, b) => a + b, 0) || 1;
-  const top = [...langBytes].sort((a, b) => b[1] - a[1]).slice(0, 10);
+  // Same weighting github-readme-stats recommends (size_weight=0.5, count_weight=0.5):
+  // a language used across many repos counts, not just the one with the most bytes.
+  const score = new Map([...langBytes].map(([l, b]) => [l, Math.sqrt(b) * Math.sqrt(langRepos.get(l))]));
+  const total = [...score.values()].reduce((a, b) => a + b, 0) || 1;
+  const top = [...score].sort((a, b) => b[1] - a[1]).slice(0, 10);
   const w = 445, barW = w - 50;
   let x = 25;
   const bar = top.map(([l, b]) => {
@@ -182,7 +191,7 @@ ${grid}<path d="${area}" fill="url(#g)"/><path d="${line}" fill="none" stroke="$
 
 function pinCard(r) {
   const w = 445, h = 140;
-  const desc = wrap(r.description || BLURBS[r.name] || 'No description', 58, 2);
+  const desc = wrap(r.description || BLURBS[r.name] || 'No description', 52, 2);
   const lang = r.language ? `<circle cx="30" cy="${h - 26}" r="6" fill="${COLORS[r.language] || T.text}"/><text x="42" y="${h - 21}" class="l">${esc(r.language)}</text>` : '';
   const sx = r.language ? 42 + r.language.length * 8 + 22 : 25;
   return frame(w, h, r.name, `${icon('repo', 25, 19, T.text)}<text x="48" y="32" class="t">${esc(r.name.length > 36 ? r.name.slice(0, 35) + '…' : r.name)}</text>
