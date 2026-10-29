@@ -110,7 +110,8 @@ const days = cc.contributionCalendar.weeks.flatMap((w) => w.contributionDays);
 const langBytes = new Map();
 for (const r of own) {
   if (r.size === 0) continue;
-  const langs = await get(`/repos/${USER}/${r.name}/languages`);
+  // A repo GitHub has blocked (or that just vanished) answers 403/404; leave it out.
+  const langs = await get(`/repos/${USER}/${r.name}/languages`).catch((e) => (console.warn(e.message.split('\n')[0]), {}));
   for (const [l, b] of Object.entries(langs)) langBytes.set(l, (langBytes.get(l) || 0) + b);
 }
 
