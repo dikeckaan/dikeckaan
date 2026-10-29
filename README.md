@@ -51,7 +51,7 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 </td>
 <td width="40%" valign="top">
 
-<a href="https://github.com/dikeckaan/mu300-linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=mu300-linux&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d&description_lines_count=3" alt="mu300-linux"></a>
+<a href="https://github.com/dikeckaan/mu300-linux"><img src="profile/pin-mu300-linux.svg" alt="mu300-linux"></a>
 
 </td>
 </tr>
@@ -79,12 +79,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## 📌 Highlights
 
 <p align="center">
-  <a href="https://github.com/dikeckaan/zte-f50-toolkit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=zte-f50-toolkit&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="zte-f50-toolkit"></a>
-  <a href="https://github.com/dikeckaan/easy-vphone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=easy-vphone&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="easy-vphone"></a>
-  <a href="https://github.com/dikeckaan/mu300-linux-vpn"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=mu300-linux-vpn&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="mu300-linux-vpn"></a>
-  <a href="https://github.com/dikeckaan/internetmerge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=internetmerge&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="internetmerge"></a>
-  <a href="https://github.com/dikeckaan/forza-horizon-6-telemetry-dashboard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=forza-horizon-6-telemetry-dashboard&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="forza-horizon-6-telemetry-dashboard"></a>
-  <a href="https://github.com/dikeckaan/macjaro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikeckaan&repo=macjaro&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="macjaro"></a>
+  <a href="https://github.com/dikeckaan/zte-f50-toolkit"><img width="49%" src="profile/pin-zte-f50-toolkit.svg" alt="zte-f50-toolkit"></a>
+  <a href="https://github.com/dikeckaan/easy-vphone"><img width="49%" src="profile/pin-easy-vphone.svg" alt="easy-vphone"></a>
+  <a href="https://github.com/dikeckaan/mu300-linux-vpn"><img width="49%" src="profile/pin-mu300-linux-vpn.svg" alt="mu300-linux-vpn"></a>
+  <a href="https://github.com/dikeckaan/internetmerge"><img width="49%" src="profile/pin-internetmerge.svg" alt="internetmerge"></a>
+  <a href="https://github.com/dikeckaan/forza-horizon-6-telemetry-dashboard"><img width="49%" src="profile/pin-forza-horizon-6-telemetry-dashboard.svg" alt="forza-horizon-6-telemetry-dashboard"></a>
+  <a href="https://github.com/dikeckaan/macjaro"><img width="49%" src="profile/pin-macjaro.svg" alt="macjaro"></a>
 </p>
 
 <details>
@@ -116,8 +116,8 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dikeckaan&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=7c8cff&text_color=8b949e&icon_color=38d9c4&border_color=30363d" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeckaan&layout=compact&langs_count=8&bg_color=00000000&title_color=7c8cff&text_color=8b949e&border_color=30363d" alt="Top languages">
+  <img width="49%" src="profile/stats.svg" alt="GitHub stats">
+  <img width="49%" src="profile/langs.svg" alt="Most used languages">
 </p>
 
 <p align="center">
@@ -125,11 +125,7 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dikeckaan&bg_color=00000000&color=8b949e&line=7c8cff&point=38d9c4&area=true&area_color=7c8cff&title_color=7c8cff&hide_border=true" alt="Contribution graph">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dikeckaan&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies">
+  <img width="100%" src="profile/activity.svg" alt="Contributions in the last 60 days">
 </p>
 
 <details>

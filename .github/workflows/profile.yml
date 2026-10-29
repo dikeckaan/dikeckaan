@@ -41,12 +41,16 @@ jobs:
       - run: node scripts/update-readme.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: node scripts/cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
-          git diff --quiet && { echo "No changes"; exit 0; }
+          git add -A README.md profile
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
           git config user.name "github-actions[bot]"
           git config user.email "41898+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update top projects"
+          git commit -m "Update top projects and stats cards"
           git push
 
   contrib-3d:
