@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/dikeckaan/mu300-linux/pull/453#issuecomment-6492459547) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-2. 💪 Opened PR [#453](https://github.com/dikeckaan/mu300-linux/pull/453) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-3. 🗣 Commented on [#447](https://github.com/dikeckaan/mu300-linux/pull/447#issuecomment-6488027880) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-4. 🎉 Merged PR [#452](https://github.com/dikeckaan/mu300-linux/pull/452) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-5. 💪 Opened PR [#452](https://github.com/dikeckaan/mu300-linux/pull/452) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-6. 🎉 Merged PR [#13](https://github.com/dikeckaan/mu300-audio/pull/13) in [dikeckaan/mu300-audio](https://github.com/dikeckaan/mu300-audio)
+1. 🎉 Merged PR [#469](https://github.com/dikeckaan/mu300-linux/pull/469) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+2. 🎉 Merged PR [#464](https://github.com/dikeckaan/mu300-linux/pull/464) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+3. 💪 Opened PR [#469](https://github.com/dikeckaan/mu300-linux/pull/469) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+4. 🎉 Merged PR [#465](https://github.com/dikeckaan/mu300-linux/pull/465) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+5. 🗣 Commented on [#466](https://github.com/dikeckaan/mu300-linux/pull/466#issuecomment-6535796918) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+6. 🎉 Merged PR [#467](https://github.com/dikeckaan/mu300-linux/pull/467) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
