@@ -62,8 +62,8 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 <!-- TOP-REPOS:START -->
 | # | Project | Description | ⭐ Stars | 🍴 Forks | Language |
 |:-:|---|---|:-:|:-:|---|
-| 1 | [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) | Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air 5G hotspots (Unisoc… | 755 | 120 | C |
-| 2 | [**zte-f50-toolkit**](https://github.com/dikeckaan/zte-f50-toolkit) | ZTE F50 (5G MiFi) flashing toolkit — B09 downgrade, root, BL unlock, IMEI patch. Built on a custom spd_dump f… | 46 | 12 | C |
+| 1 | [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) | Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air 5G hotspots (Unisoc… | 770 | 122 | C |
+| 2 | [**zte-f50-toolkit**](https://github.com/dikeckaan/zte-f50-toolkit) | ZTE F50 (5G MiFi) flashing toolkit — B09 downgrade, root, BL unlock, IMEI patch. Built on a custom spd_dump f… | 45 | 12 | C |
 | 3 | [**MacOS-Workflow-VNC**](https://github.com/dikeckaan/MacOS-Workflow-VNC) | A free macOS desktop over VNC in about five minutes, on GitHub Actions with an ngrok tunnel. | 16 | 190 | Shell |
 | 4 | [**macjaro**](https://github.com/dikeckaan/macjaro) | MacOS theme for Manjaro Gnome or any Arch based Gnome | 15 | 2 | CSS |
 | 5 | [**mu300-linux-vpn**](https://github.com/dikeckaan/mu300-linux-vpn) | VPN toolkit for MU300 Linux (ZTE F50 / U30 Air): one command for Xray, sing-box, mihomo, WireGuard and OpenVP… | 12 | 2 | Python |
@@ -145,10 +145,10 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## 🕒 Recently updated
 
 <!-- RECENT:START -->
-- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-11-01</sub>
-- [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-11-01</sub>
-- [**mu5358-linux**](https://github.com/dikeckaan/mu5358-linux) — OpenWrt on the ZTE U30 Pro (MU5358, UMS9632) 5G hotspot, next to Android, with its round… <sub>· updated 2026-11-01</sub>
-- [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) — Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air… <sub>· updated 2026-10-31</sub>
+- [**mu5358-linux**](https://github.com/dikeckaan/mu5358-linux) — OpenWrt on the ZTE U30 Pro (MU5358, UMS9632) 5G hotspot, next to Android, with its round… <sub>· updated 2026-11-02</sub>
+- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-11-02</sub>
+- [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-11-02</sub>
+- [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) — Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air… <sub>· updated 2026-11-02</sub>
 - [**.github**](https://github.com/dikeckaan/.github) — No description <sub>· updated 2026-10-29</sub>
 - [**bektasotokurtarma**](https://github.com/dikeckaan/bektasotokurtarma) — Bektaş Oto Kurtarma — cekici.online. İstanbul Anadolu Yakası 7/24 oto çekici. Cloudflare… <sub>· updated 2026-10-27</sub>
 <!-- RECENT:END -->
