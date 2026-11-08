@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#486](https://github.com/dikeckaan/mu300-linux/pull/486) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-2. 🎉 Merged PR [#483](https://github.com/dikeckaan/mu300-linux/pull/483) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-3. 🎉 Merged PR [#485](https://github.com/dikeckaan/mu300-linux/pull/485) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-4. 💪 Opened PR [#486](https://github.com/dikeckaan/mu300-linux/pull/486) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-5. 💪 Opened PR [#485](https://github.com/dikeckaan/mu300-linux/pull/485) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-6. 🚀 Published release [MU300 Linux v2026.11.02.1](https://github.com/dikeckaan/mu300-linux/releases/tag/v2026.11.02.1) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+1. 🚀 Published release [Foto Yazıcı 2.0.1](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0.1) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
+2. 🚀 Published release [Foto Yazıcı 2.0](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
+3. 🎉 Merged PR [#486](https://github.com/dikeckaan/mu300-linux/pull/486) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+4. 🎉 Merged PR [#483](https://github.com/dikeckaan/mu300-linux/pull/483) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+5. 🎉 Merged PR [#485](https://github.com/dikeckaan/mu300-linux/pull/485) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+6. 💪 Opened PR [#486](https://github.com/dikeckaan/mu300-linux/pull/486) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
