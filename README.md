@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Foto Yazıcı 2.0.1](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0.1) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
-2. 🚀 Published release [Foto Yazıcı 2.0](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
-3. 🎉 Merged PR [#486](https://github.com/dikeckaan/mu300-linux/pull/486) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-4. 🎉 Merged PR [#483](https://github.com/dikeckaan/mu300-linux/pull/483) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-5. 🎉 Merged PR [#485](https://github.com/dikeckaan/mu300-linux/pull/485) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
-6. 💪 Opened PR [#486](https://github.com/dikeckaan/mu300-linux/pull/486) in [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux)
+1. 🚀 Published release [v0.2.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.2.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
+2. 🚀 Published release [Boreas 0.1.0](https://github.com/dikeckaan/boreas/releases/tag/v0.1.0) in [dikeckaan/boreas](https://github.com/dikeckaan/boreas)
+3. 🚀 Published release [v0.1.1](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.1) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
+4. 🚀 Published release [v0.1.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
+5. 🚀 Published release [Foto Yazıcı 2.0.1](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0.1) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
+6. 🚀 Published release [Foto Yazıcı 2.0](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
