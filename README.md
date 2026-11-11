@@ -62,7 +62,7 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 <!-- TOP-REPOS:START -->
 | # | Project | Description | ⭐ Stars | 🍴 Forks | Language |
 |:-:|---|---|:-:|:-:|---|
-| 1 | [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) | Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air 5G hotspots (Unisoc… | 840 | 134 | C |
+| 1 | [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) | Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air 5G hotspots (Unisoc… | 848 | 135 | C |
 | 2 | [**zte-f50-toolkit**](https://github.com/dikeckaan/zte-f50-toolkit) | ZTE F50 (5G MiFi) flashing toolkit — B09 downgrade, root, BL unlock, IMEI patch. Built on a custom spd_dump f… | 46 | 12 | C |
 | 3 | [**mu300-linux-vpn**](https://github.com/dikeckaan/mu300-linux-vpn) | VPN toolkit for MU300 Linux (ZTE F50 / U30 Air): one command for Xray, sing-box, mihomo, WireGuard and OpenVP… | 17 | 2 | Python |
 | 4 | [**MacOS-Workflow-VNC**](https://github.com/dikeckaan/MacOS-Workflow-VNC) | A free macOS desktop over VNC in about five minutes, on GitHub Actions with an ngrok tunnel. | 16 | 190 | Shell |
@@ -71,7 +71,7 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 | 7 | [**f50-magisk-modules**](https://github.com/dikeckaan/f50-magisk-modules) | Index of Magisk modules for ZTE F50 (rooted Android, Unisoc UMS9620). Each module auto-updates via updateJson… | 7 | 1 | — |
 | 8 | [**internetmerge**](https://github.com/dikeckaan/internetmerge) | Bond multiple network links into faster total internet — cross-platform, Mac-first (Connectify Dispatcher sty… | 6 | 1 | Go |
 | 9 | [**magisk-zte-f50-statusbot**](https://github.com/dikeckaan/magisk-zte-f50-statusbot) | Telegram bot for ZTE F50 (rooted Android): status, AT, shell, ZTE perf, IMEI/SMS, tailscale toggle, speedtest… | 6 | 0 | Shell |
-| 10 | [**mf286r-telnet-openwrt-exploit**](https://github.com/dikeckaan/mf286r-telnet-openwrt-exploit) | This guide provides step-by-step instructions to enable Telnet access on the ZTE MF286R router with stock fir… | 5 | 2 | PowerShell |
+| 10 | [**mu5358-linux**](https://github.com/dikeckaan/mu5358-linux) | OpenWrt on the ZTE U30 Pro (MU5358, UMS9632) 5G hotspot, next to Android, with its round screen as a control… | 6 | 0 | C |
 <!-- TOP-REPOS:END -->
 
 <sub>Updated daily by a workflow from public repositories only.</sub>
@@ -145,12 +145,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## 🕒 Recently updated
 
 <!-- RECENT:START -->
-- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-11-10</sub>
-- [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-11-10</sub>
+- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-11-11</sub>
+- [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-11-11</sub>
+- [**xiaomi-rc-bridge**](https://github.com/dikeckaan/xiaomi-rc-bridge) — Make Xiaomi BLE remotes work on Android TV boxes where keys do nothing — no root <sub>· updated 2026-11-11</sub>
+- [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) — Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air… <sub>· updated 2026-11-10</sub>
 - [**homebrew-claude-qwen**](https://github.com/dikeckaan/homebrew-claude-qwen) — Homebrew tap for claude-qwen <sub>· updated 2026-11-08</sub>
 - [**claude-qwen**](https://github.com/dikeckaan/claude-qwen) — Run Claude Code with a local Qwen3.8-27B (or any GGUF) model via llama.cpp on Apple Silic… <sub>· updated 2026-11-08</sub>
-- [**boreas**](https://github.com/dikeckaan/boreas) — Free, open-source fan control and temperature monitor for Apple Silicon Macs — custom fan… <sub>· updated 2026-11-08</sub>
-- [**pos-foto-makinesi**](https://github.com/dikeckaan/pos-foto-makinesi) — Sunmi P2'yi AirPrint / IPP ağ yazıcısına çeviren uygulama: fotoğraf sayfası ve fiş oluştu… <sub>· updated 2026-11-08</sub>
 <!-- RECENT:END -->
 
 ## ⚡ Recent activity
