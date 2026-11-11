@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.2.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
-2. 🚀 Published release [Boreas 0.1.0](https://github.com/dikeckaan/boreas/releases/tag/v0.1.0) in [dikeckaan/boreas](https://github.com/dikeckaan/boreas)
-3. 🚀 Published release [v0.1.1](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.1) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
-4. 🚀 Published release [v0.1.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
-5. 🚀 Published release [Foto Yazıcı 2.0.1](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0.1) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
-6. 🚀 Published release [Foto Yazıcı 2.0](https://github.com/dikeckaan/pos-foto-makinesi/releases/tag/v2.0) in [dikeckaan/pos-foto-makinesi](https://github.com/dikeckaan/pos-foto-makinesi)
+1. 🚀 Published release [Xiaomi RC Bridge v0.5](https://github.com/dikeckaan/xiaomi-rc-bridge/releases/tag/v0.5) in [dikeckaan/xiaomi-rc-bridge](https://github.com/dikeckaan/xiaomi-rc-bridge)
+2. 🚀 Published release [Xiaomi RC Bridge v0.4](https://github.com/dikeckaan/xiaomi-rc-bridge/releases/tag/v0.4) in [dikeckaan/xiaomi-rc-bridge](https://github.com/dikeckaan/xiaomi-rc-bridge)
+3. 🚀 Published release [v0.2.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.2.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
+4. 🚀 Published release [Boreas 0.1.0](https://github.com/dikeckaan/boreas/releases/tag/v0.1.0) in [dikeckaan/boreas](https://github.com/dikeckaan/boreas)
+5. 🚀 Published release [v0.1.1](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.1) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
+6. 🚀 Published release [v0.1.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
