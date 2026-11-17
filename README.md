@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Xiaomi RC Bridge v0.5](https://github.com/dikeckaan/xiaomi-rc-bridge/releases/tag/v0.5) in [dikeckaan/xiaomi-rc-bridge](https://github.com/dikeckaan/xiaomi-rc-bridge)
-2. 🚀 Published release [Xiaomi RC Bridge v0.4](https://github.com/dikeckaan/xiaomi-rc-bridge/releases/tag/v0.4) in [dikeckaan/xiaomi-rc-bridge](https://github.com/dikeckaan/xiaomi-rc-bridge)
-3. 🚀 Published release [v0.2.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.2.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
-4. 🚀 Published release [Boreas 0.1.0](https://github.com/dikeckaan/boreas/releases/tag/v0.1.0) in [dikeckaan/boreas](https://github.com/dikeckaan/boreas)
-5. 🚀 Published release [v0.1.1](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.1) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
-6. 🚀 Published release [v0.1.0](https://github.com/dikeckaan/claude-qwen/releases/tag/v0.1.0) in [dikeckaan/claude-qwen](https://github.com/dikeckaan/claude-qwen)
+1. 🎉 Merged PR [#34](https://github.com/dikeckaan/swagger-dark-ui/pull/34) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
+2. 💪 Opened PR [#34](https://github.com/dikeckaan/swagger-dark-ui/pull/34) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
+3. 🎉 Merged PR [#33](https://github.com/dikeckaan/swagger-dark-ui/pull/33) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
+4. 💪 Opened PR [#33](https://github.com/dikeckaan/swagger-dark-ui/pull/33) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
+5. 🎉 Merged PR [#32](https://github.com/dikeckaan/swagger-dark-ui/pull/32) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
+6. 💪 Opened PR [#32](https://github.com/dikeckaan/swagger-dark-ui/pull/32) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
