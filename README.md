@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/dikeckaan/swagger-dark-ui/pull/34) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
-2. 💪 Opened PR [#34](https://github.com/dikeckaan/swagger-dark-ui/pull/34) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
-3. 🎉 Merged PR [#33](https://github.com/dikeckaan/swagger-dark-ui/pull/33) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
-4. 💪 Opened PR [#33](https://github.com/dikeckaan/swagger-dark-ui/pull/33) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
-5. 🎉 Merged PR [#32](https://github.com/dikeckaan/swagger-dark-ui/pull/32) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
-6. 💪 Opened PR [#32](https://github.com/dikeckaan/swagger-dark-ui/pull/32) in [dikeckaan/swagger-dark-ui](https://github.com/dikeckaan/swagger-dark-ui)
+1. 🚀 Published release [Dikec DPI v1.3.4](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.4) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+2. 🚀 Published release [Dikec DPI v1.3.3 · Yeni bağlanma animasyonu](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.3) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+3. 🚀 Published release [Dikec DPI v1.3.2](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.2) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+4. 🚀 Published release [Dikec DPI v1.3.1](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.1) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+5. 🚀 Published release [Dikec DPI v1.3.0 · 8 dil](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.0) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+6. 🚀 Published release [Dikec DPI v1.2.0 · Uygulama içi güncelleme](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.2.0) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
