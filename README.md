@@ -62,9 +62,9 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 <!-- TOP-REPOS:START -->
 | # | Project | Description | ⭐ Stars | 🍴 Forks | Language |
 |:-:|---|---|:-:|:-:|---|
-| 1 | [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) | Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air 5G hotspots (Unisoc… | 917 | 150 | C |
+| 1 | [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) | Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air 5G hotspots (Unisoc… | 924 | 152 | C |
 | 2 | [**zte-f50-toolkit**](https://github.com/dikeckaan/zte-f50-toolkit) | ZTE F50 (5G MiFi) flashing toolkit — B09 downgrade, root, BL unlock, IMEI patch. Built on a custom spd_dump f… | 52 | 11 | C |
-| 3 | [**mu300-linux-vpn**](https://github.com/dikeckaan/mu300-linux-vpn) | VPN toolkit for MU300 Linux (ZTE F50 / U30 Air): one command for Xray, sing-box, mihomo, WireGuard and OpenVP… | 19 | 2 | Python |
+| 3 | [**mu300-linux-vpn**](https://github.com/dikeckaan/mu300-linux-vpn) | VPN toolkit for MU300 Linux (ZTE F50 / U30 Air): one command for Xray, sing-box, mihomo, WireGuard and OpenVP… | 20 | 2 | Python |
 | 4 | [**MacOS-Workflow-VNC**](https://github.com/dikeckaan/MacOS-Workflow-VNC) | A free macOS desktop over VNC in about five minutes, on GitHub Actions with an ngrok tunnel. | 16 | 193 | Shell |
 | 5 | [**macjaro**](https://github.com/dikeckaan/macjaro) | MacOS theme for Manjaro Gnome or any Arch based Gnome | 15 | 2 | CSS |
 | 6 | [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) | Native macOS GUI for vphone-cli with VM management and an integrated IPA library | 13 | 2 | Swift |
@@ -145,8 +145,8 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## 🕒 Recently updated
 
 <!-- RECENT:START -->
-- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-11-22</sub>
-- [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-11-22</sub>
+- [**dikeckaan.github.io**](https://github.com/dikeckaan/dikeckaan.github.io) — my web site <sub>· updated 2026-11-23</sub>
+- [**easy-vphone**](https://github.com/dikeckaan/easy-vphone) — Native macOS GUI for vphone-cli with VM management and an integrated IPA library <sub>· updated 2026-11-23</sub>
 - [**homebrew-dikecdpi**](https://github.com/dikeckaan/homebrew-dikecdpi) — Homebrew tap for Dikec DPI · brew tap dikeckaan/dikecdpi <sub>· updated 2026-11-20</sub>
 - [**DikecDPI**](https://github.com/dikeckaan/DikecDPI) — DPI engellerini aşan, ağınızı tarayıp en iyi ayarı seçen proxy · menü çubuğu uygulaması +… <sub>· updated 2026-11-20</sub>
 - [**mu300-linux**](https://github.com/dikeckaan/mu300-linux) — Linux (Ubuntu 24.04/26.04 or OpenWrt) next to Android on the ZTE F50 / MU300 and U30 Air… <sub>· updated 2026-11-20</sub>
