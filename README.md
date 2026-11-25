@@ -156,12 +156,12 @@ Turn a pocket 5G MiFi into a real Linux box: full distro, your own packages, VPN
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Dikec DPI v1.3.5](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.5) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
-2. 🚀 Published release [Awake Mac 1.2.0](https://github.com/dikeckaan/AwakeMAC/releases/tag/v1.2.0) in [dikeckaan/AwakeMAC](https://github.com/dikeckaan/AwakeMAC)
-3. 🚀 Published release [Dikec DPI v1.3.4](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.4) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
-4. 🚀 Published release [Dikec DPI v1.3.3 · Yeni bağlanma animasyonu](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.3) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
-5. 🚀 Published release [Dikec DPI v1.3.2](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.2) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
-6. 🚀 Published release [Dikec DPI v1.3.1](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.1) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+1. 🚀 Published release [Dikec DPI v1.4.0 · Windows](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.4.0) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+2. 🚀 Published release [Dikec DPI v1.3.5](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.5) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+3. 🚀 Published release [Awake Mac 1.2.0](https://github.com/dikeckaan/AwakeMAC/releases/tag/v1.2.0) in [dikeckaan/AwakeMAC](https://github.com/dikeckaan/AwakeMAC)
+4. 🚀 Published release [Dikec DPI v1.3.4](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.4) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+5. 🚀 Published release [Dikec DPI v1.3.3 · Yeni bağlanma animasyonu](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.3) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
+6. 🚀 Published release [Dikec DPI v1.3.2](https://github.com/dikeckaan/DikecDPI/releases/tag/v1.3.2) in [dikeckaan/DikecDPI](https://github.com/dikeckaan/DikecDPI)
 <!--END_SECTION:activity-->
 
 ## 💖 Support
